@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_title">Plastic Scanner</string>
+    <string name="scan_button">Scan</string>
+    <string name="instruction_text">Tap Scan to capture an image and classify plastic.</string>
+    <string name="image_preview_desc">Last scanned image preview</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="history_button">View History</string>
+
+</resources>
